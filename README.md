@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas Naves
 
 Recém-graduado em Engenharia Mecânica e entusiasta em áreas relacionadas a tecnologia e programação. Durante minha trajetória acadêmica, desenvolvi uma pesquisa voltada para Machine Learning e realizei meu Trabalho de Conclusão de Curso na área de Deep Learning.
-- 🌱 Estudando Python, Java
+- 🌱 Estudando Python e Java
 - 😄 Pronomes: ele/dele
   
 ### Conecte-se comigo

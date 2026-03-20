@@ -5,9 +5,7 @@ Recém-graduado em Engenharia Mecânica e entusiasta em áreas relacionadas a te
 ### Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucasnavesdasilveira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/lucas-naves-da-silveira-4a733a171/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasNSilveira)
-[![DIO](https://img.shields.io/badge/-%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/lucasnavesdasilveira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=White)](https://www.linkedin.com/in/lucas-naves-da-silveira/)
 
 ### 📚 Documentação
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
